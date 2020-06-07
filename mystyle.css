@@ -1,0 +1,34 @@
+.navbar{border-bottom: 1px solid;}
+#hover-nav .navbar .nav-item :hover{color: aquamarine;}
+
+#my-img{border-radius: 80px;width: 450px;vertical-align: text-top;}
+
+#f-paragraph{font-family: Impact, 'Arial Narrow Bold', sans-serif;
+text-transform: capitalize;color: aqua;}
+
+.skills-style{font-family: Impact, 'Arial Narrow Bold', sans-serif;}
+
+#f-project{border-radius: 30%;height: 250px;}
+
+#s-project{border-radius: 30%;height: 250px;}
+
+#t-project{border-radius: 30%;height: 250px;}
+#bg-pic {
+    background-image: url('https://i.pinimg.com/originals/ce/e4/cb/cee4cbd70a2dc1f973bbc3456b47bdac.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;  
+    background-size: initial;
+  }
+  #about{color: aqua;}
+  #contact-me {
+    background-image: url('https://kingwilliamrealestate.com/wp-content/uploads/2017/10/Contact-Me.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;  
+    background-size: contain;
+  }
+
+
+  
+
+
+  
